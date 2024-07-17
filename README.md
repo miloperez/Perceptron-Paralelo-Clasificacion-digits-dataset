@@ -1,0 +1,1 @@
+Proyecto escolar en el que se implementa un parceptron paralelo para clasificar los elementos del conjunto de datos "digits"
